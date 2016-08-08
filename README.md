@@ -1,3 +1,24 @@
+## industrial_metapackages (indigo) - 0.0.3-0
+
+The packages in the `industrial_metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release industrial_metapackages --track indigo --rosdistro indigo` on `Mon, 08 Aug 2016 02:46:42 -0000`
+
+The `industrial_desktop` package was released.
+
+Version of package(s) in repository `industrial_metapackages`:
+- upstream repository: https://github.com/ros-industrial/industrial_metapackages.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.37`
+
+
 ## industrial_metapackages (hydro) - 0.0.2-0
 
 The packages in the `industrial_metapackages` repository were released into the `hydro` distro by running `/usr/bin/bloom-release industrial_metapackages --track hydro --rosdistro hydro` on `Tue, 03 Jun 2014 03:00:13 -0000`
