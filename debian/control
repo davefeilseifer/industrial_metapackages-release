@@ -1,0 +1,12 @@
+Source: ros-indigo-industrial-desktop
+Section: misc
+Priority: extra
+Maintainer: Shaun Edwards <shaun.edwards@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-industrial-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-abb, ros-indigo-fanuc, ros-indigo-industrial-core, ros-indigo-motoman, ros-indigo-universal-robot
+Description: The industrial_desktop package contains all &quot;released&quot; packages
